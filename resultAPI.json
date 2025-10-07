@@ -1,0 +1,17 @@
+{
+  "postUser": {
+    "id": "433b",
+    "name": "Aravind",
+    "job": "QA Lead II"
+  },
+  "getUser": {
+    "id": "433b",
+    "name": "Aravind",
+    "job": "QA Lead II"
+  },
+  "updateUser": {
+    "name": "Subash",
+    "job": "QA Lead II",
+    "id": "433b"
+  }
+}
