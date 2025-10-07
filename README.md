@@ -70,3 +70,5 @@ npx json-server --watch db.json --port 3000
 
 # Run API tests
 npx playwright test automationAPI.spec.js --project=chromium --headed
+(If it throws error check npx install playwright is correctly installed or not, to check browsers are installed)
+
